@@ -1,4 +1,18 @@
-# Some applications of TDA on financial markets
-Miguel A. Ruiz-Ortiz (main author); J. Gómez-Larrañaga; Jesús Rodríguez-Viorato
+# A persistent-homology-based turbulence index \& some applications of TDA on financial markets
+Miguel A. Ruiz-Ortiz (main author); J. C. Gómez-Larrañaga; Jesús Rodríguez-Viorato
 
-The Topological Data Analysis (TDA) has had many applications. However, financial markets has been studied slightly through TDA. In this paper we present a quick review of some recent applications of TDA on financial markets and propose a new turbulence index based on persistent homology --- the fundamental tool for TDA --- combining ideas of [Gidea et al. (2020)](https://www.sciencedirect.com/science/article/abs/pii/S0378437119321363), and [Baitinger and Flegel (2019)](https://link.springer.com/article/10.1007/s11408-020-00377-x), and seems to capture critical transitions on financial data based on our experiment with SP500 data before 2020 stock market crash in February 20, 2020, due to the COVID-19 pandemic. We review applications in the early detection of turbulence periods in financial markets and how TDA can help to get new insights while investing and obtain superior risk-adjusted returns compared with investing strategies using classical turbulence indices as VIX and the Chow et al. (1999) index based on the Mahalanobis distance. Furthermore, we include an introduction to persistent homology so the reader could be able to understand this paper without knowing TDA.
+Topological Data Analysis (TDA) is a modern approach to Data Analysis 
+focusing on the topological features of data; it has been widely studied 
+in recent years and used extensively in Biology, Physics, and many
+other areas. However, financial markets have been studied slightly through
+TDA. Here we present a quick review of some recent applications of TDA
+on financial markets, including applications in the early detection of 
+turbulence periods in financial markets and how TDA can help to get new
+insights while investing. Also, we propose a new turbulence index based
+on persistent homology — the fundamental tool for TDA — that seems
+to capture critical transitions in financial data; we tested our index with
+different financial time series (S&P500, Russel 2000, S&P/BMV IPC and
+Nikkei 225) and crash events (Black Monday crash, dot-com crash, 2007-
+08 crash and COVID-19 crash). Furthermore, we include an introduction
+to persistent homology so the reader can understand this paper without
+knowing TDA.
