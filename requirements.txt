@@ -1,0 +1,8 @@
+giotto-tda
+pandas
+numpy
+matplotlib
+scipy
+jupyter
+sklearn
+yellowbrick
